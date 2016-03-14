@@ -6,7 +6,8 @@ seneca-sqlserver-store
 
 [![npm version][npm-badge]][npm-url]
 
-`seneca-sqlserver-store` is a ___IN BUILDING__ [SQLServer][sqlserver] database plugin for the [Seneca][seneca] MVP toolkit.
+`seneca-sqlserver-store` is a ___IN BUILDING__ [SQLServer][sqlserver]
+database plugin for the [Seneca][seneca] microservices toolkit.
 
 <!--  The plugin is using the [node-postgres][nodepg] DIVER -->
 
@@ -20,6 +21,8 @@ examples, extra testing, or new features please get in touch.
 
 [npm-badge]: https://img.shields.io/npm/v/seneca-sqlserver-store.svg
 [npm-url]: https://npmjs.com/package/seneca-sqlserver-store
+[sqlserver]: https://en.wikipedia.org/wiki/Microsoft_SQL_Server
+[seneca]: https://senecajs.org
 
 [lead]: https://github.com/AdrieanKhisbe
 [nearForm]: https://nearform.com
