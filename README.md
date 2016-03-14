@@ -9,7 +9,7 @@ seneca-sqlserver-store
 `seneca-sqlserver-store` is a ___IN BUILDING__ [SQLServer][sqlserver]
 database plugin for the [Seneca][seneca] microservices toolkit.
 
-<!--  The plugin is using the [node-postgres][nodepg] DIVER -->
+The plugin is using the [node-mssql][] driver.
 
 - __Lead Maintainer:__ [Adrien Becchis][lead]
 - __Sponsor:__ [nearForm][]
@@ -23,6 +23,7 @@ examples, extra testing, or new features please get in touch.
 [npm-url]: https://npmjs.com/package/seneca-sqlserver-store
 [sqlserver]: https://en.wikipedia.org/wiki/Microsoft_SQL_Server
 [seneca]: https://senecajs.org
+[node-mssql]: https://github.com/patriksimek/node-mssql
 
 [lead]: https://github.com/AdrieanKhisbe
 [nearForm]: https://nearform.com

@@ -22,5 +22,8 @@
   "bugs": {
     "url": "https://github.com/senecajs/seneca-sqlserver-store/issues"
   },
-  "homepage": "https://github.com/senecajs/seneca-sqlserver-store#readme"
+  "homepage": "https://github.com/senecajs/seneca-sqlserver-store#readme",
+  "dependencies": {
+    "node-mssql": "0.0.1"
+  }
 }
