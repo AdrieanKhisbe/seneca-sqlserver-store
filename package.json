@@ -24,6 +24,14 @@
   },
   "homepage": "https://github.com/senecajs/seneca-sqlserver-store#readme",
   "dependencies": {
-    "node-mssql": "0.0.1"
+    "node-mssql": "0.0.1",
+    "node-uuid": "^1.4.7"
+  },
+  "devDependencies": {
+    "async": "^1.5.2",
+    "code": "^1.5.0",
+    "lab": "^6.2.0",
+    "seneca": "^2.0.0",
+    "seneca-store-test": "^1.0.0"
   }
 }
