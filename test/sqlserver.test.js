@@ -19,7 +19,9 @@ var Shared = require('seneca-store-test')
 var DefaultConfig = require('./default_config.json')
 
 var si = Seneca()
+si.use(require('seneca-entity'))
 si.use(require('..'), DefaultConfig)
+
 var storeName = 'sqlserver-store'
 var actionRole = 'sql'
 
