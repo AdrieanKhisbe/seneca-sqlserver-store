@@ -2,7 +2,7 @@
   "name": "seneca-sqlserver-store",
   "version": "0.0.0",
   "description": "SQLserver store for Seneca",
-  "main": "index.js",
+  "main": "lib/stub.js",
   "scripts": {
     "test": "lab"
   },
